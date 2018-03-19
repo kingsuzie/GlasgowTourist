@@ -1,0 +1,35 @@
+body{
+    
+
+    font-size: 1.2em; 
+   
+    
+}
+
+.enter, p {
+    
+    font-size: 1.2em;
+}
+
+.col1 {
+    
+    
+    margin: 5%;
+    width: 500px;
+    height: 450px;
+    float: left;
+    clear: both;
+ 
+}
+.col3 {
+    
+    clear: both;
+    margin: 5%;
+    width: 500px;
+    height: 650px;
+    float: right; 
+
+    
+}
+
+
